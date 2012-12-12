@@ -1,4 +1,5 @@
-deploydo-test
-=============
+deploydo
+========
 
-Just for testing deployment with deploydo
+This repository is for testing the deployment process on deploydo.
+You can use this as a test repository without the need to test with your own repositories.
